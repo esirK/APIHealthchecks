@@ -1,0 +1,8 @@
+*
+!apis.json
+!LICENSE
+!main.py
+!Pipfile
+!Pipfile.lock
+!lambda_function.py
+!.gitignore
