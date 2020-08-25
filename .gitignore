@@ -6,3 +6,5 @@
 !Pipfile.lock
 !lambda_function.py
 !.gitignore
+!.github/*
+!.github
